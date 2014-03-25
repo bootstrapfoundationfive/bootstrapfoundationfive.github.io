@@ -12938,6 +12938,7 @@ th.hide-for-touch {
 
 
   /* OVERRIDES BECAUSE THIS IS TOTALLY WHERE THEY SHOULD GO, IN THE FRAMEWORK FILE AT THE END */
-  * {
+  p, h1, h2, h3, h4, h5, h6 {
     font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif !important
   }
+/*  pre > * { font-family: "Courier New" !important;}*/
